@@ -1,5 +1,23 @@
 # Changelog
 
+## [2026.4.6](https://github.com/jdx/mise/compare/v2026.4.5..v2026.4.6) - 2026-04-06
+
+### 📚 Documentation
+
+- **(python)** clarify attestation settings must be under [settings] in mise.toml by @fru1tworld in [#8939](https://github.com/jdx/mise/pull/8939)
+
+### 📦 Registry
+
+- added sing-box by @tony-sol in [#8944](https://github.com/jdx/mise/pull/8944)
+
+### Chore
+
+- **(ci)** remove auto-draft PR workflow by @jdx in [#8945](https://github.com/jdx/mise/pull/8945)
+
+### New Contributors
+
+- @fru1tworld made their first contribution in [#8939](https://github.com/jdx/mise/pull/8939)
+
 ## [2026.4.5](https://github.com/jdx/mise/compare/v2026.4.4..v2026.4.5) - 2026-04-06
 
 ### 🚀 Features
